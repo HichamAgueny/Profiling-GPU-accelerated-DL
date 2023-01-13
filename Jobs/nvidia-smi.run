@@ -1,0 +1,1 @@
+for j in {1..10}; do srun --jobid=2291056 --interactive --pty nvidia-smi; sleep 2; done
