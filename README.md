@@ -1,6 +1,6 @@
 # Profiling-GPU-accelerated-DL
 
-This tutorial is about an introduction to GPU and profiling of Deep Learning models using PyTorch Profiler. Further details are provided in the attached slide.
+This tutorial is about an introduction to GPU and profiling of Deep Learning models using PyTorch Profiler. Further details are provided in the attached slides (see presentation_HA.pdf).
 
 The code application is adapted from the [PyTorch tutorial](https://pytorch.org/tutorials/intermediate/tensorboard_profiler_tutorial.html).
 
